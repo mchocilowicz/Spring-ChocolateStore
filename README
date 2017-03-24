@@ -1,0 +1,10 @@
+Spring Framework application representing Chocolate Store.
+
+Allowing to sign as User or Admin
+Making simple recipies
+Adding items to shopping cart and „buying”
+Adding items to store by admin.
+
+Need to provide data for Postgresql.
+
+Project for Kontenery aplikacyjne dla platformy Java EE
